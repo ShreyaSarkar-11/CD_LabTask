@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1775620647 source:c:\users\user\onedrive\desktop\compiler_lab\cdlab\main.cpp
+	<iostream>
+	<fstream>
+
+1775620647 source:c:\users\user\onedrive\desktop\compiler_lab\mid_labtask\main.cpp
+	<iostream>
+	<fstream>
+
